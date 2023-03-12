@@ -1,0 +1,12 @@
+[server]
+name = ""
+host = "0.0.0.0"
+port = 8_080
+
+[database]
+host = "127.0.0.1"
+port = 3_306
+scheme = "database"
+username = "username"
+password = "password"
+driver = "mysql"
